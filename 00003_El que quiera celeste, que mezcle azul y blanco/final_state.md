@@ -10,4 +10,6 @@ size 5 1
 cell 0 0 Azul 5 
 cell 1 0 Azul 5 
 cell 2 0 Azul 5 
-head 2 0 </gs-board>
+cell 1 0 Azul 5 
+cell 2 0 Azul 5
+head 5 0 </gs-board>
