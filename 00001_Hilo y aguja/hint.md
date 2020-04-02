@@ -1,0 +1,1 @@
+Recordá que para crear un procedimiento con parámetros tenés que ir a **Procedimientos > Definiciones** y elegir el que tiene el símbolo **+**. Para agregar un parámetro en el procedimiento tenés que usar ese mismo símbolo; y para usarlo tocá en la manito. :fist:
